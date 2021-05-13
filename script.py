@@ -3,9 +3,9 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+Don't Waste your Time I'm Reserved to Cinema Festival Channel
 
-This is Version 2 of Auto Filter Bot
+This is CF Filter Bot
 
 Bot gives button link to files in connected channels on query !
 
@@ -53,17 +53,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @Cinema_FestivalTG</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : CF Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Cinema_FestivalTG
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Group :</b> <a href='https://t.me/CF_OfficialGroup'>Join Now</a> 
 
 """
