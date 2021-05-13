@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Cinema_Festival
+# @Cinema_FestivalTG
 
 
 from pyrogram import (
